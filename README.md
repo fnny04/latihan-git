@@ -1,0 +1,2 @@
+# latihan-git
+Sekedar latihan
